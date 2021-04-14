@@ -1,0 +1,3 @@
+<?php
+  $GLOBALS['TL_HEAD'][] = '<script defer src="/bundles/heimseitencontaoparallax/parallax.js"></script>'; 
+?>
