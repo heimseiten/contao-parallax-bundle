@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   var window_innerHeight = window.innerHeight
   start();
   function start() {
-    document.querySelectorAll('.parallax').forEach(element => {
+    document.querySelectorAll('.parallax, .parallax_inner_image img').forEach(element => {
       var speed = 6
       var classList = element.classList
       classList.forEach(e => { if ( e.includes('prlxs_') ) { speed = e.substr(6, e.length) } })
