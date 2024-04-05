@@ -5,6 +5,6 @@ Jedes Element, welches die Klasse parallax hat, wird mit einem Parallax-Effekt a
 
 Über die Klasse prlx_up kann die Richtung umgedreht werden.
 
-Damit die Erweiterung geladen wird, muss "js_parallax.html5" im Seiten Layout aktiviert werden.
+Damit die Erweiterung geladen wird, muss "js_parallax.html5" im Seitenlayout aktiviert werden.
 
 Die Standardgeschwindigkeit ist prlxs_6.
